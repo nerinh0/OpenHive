@@ -7,7 +7,7 @@ This project was created to expand my knowledge of Golang.
 
 My list of tasks here is:
 * finalize "Customer" module
-    * create ✅
+    * create 
     * list 
     * update 
     * delete
